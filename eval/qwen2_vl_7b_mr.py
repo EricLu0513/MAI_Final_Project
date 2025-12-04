@@ -174,7 +174,7 @@ def process_video_queries(model, processor, data_path, save_path, input_format, 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--data_path", type=str, default="eval_gts/charades_test.json", help="Path to the input JSON file containing video queries.")
-    parser.add_argument("--save_path", type=str, default="results/charades_qwen2_vl_7b.json", help="Path to save the output JSON file with responses.")
+    parser.add_argument("--save_path", type=str, default="../results/charades_qwen2_vl_7b.json", help="Path to save the output JSON file with responses.")
     parser.add_argument("--video_path", type=str, default="Charades_v1_480_test/Charades_v1_480", help="Path to the video file.")
     parser.add_argument("--input_format", type=str, default="During which frames can we see {}? Answer in the format: 'From Frame x to Frame y'.", help="Input format string for the query.")
     parser.add_argument("--instruction", type=str, default="The red numbers on each frame represent the frame number.", help="Instruction for the model.")
