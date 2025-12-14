@@ -1,0 +1,1007 @@
+{
+  "num_segments": 100,
+  "num_movies": 67,
+  "fps": 3,
+  "segments": [
+    {
+      "movie_id": "tt0072443",
+      "description": "A young woman with blonde hair slowly looks up. A baby or young child is seen sleeping peacefully in a bed. An older woman in a headscarf walks around a dimly lit, rustic room and sits at a table. The young woman is again seen looking up, then an older woman looks around, and a young woman is shown lying motionless on a floor. A blurry figure moves through a dark doorway.",
+      "start_shot": 119,
+      "end_shot": 126,
+      "start_frame_id": "shot_0121_img_0",
+      "end_frame_id": "shot_0126_img_2",
+      "num_shots": 6,
+      "num_frames": 18
+    },
+    {
+      "movie_id": "tt0078841",
+      "description": "A man in a suit sits at a desk with an armillary sphere. Three men in suits are in an office, two seated at a desk, one standing on the phone, with American flags in the background. A man in a tuxedo and a woman in a black dress stand together, then walk through a doorway. A computer monitor with text and a printer are shown, followed by a man on a couch looking at papers with the computer nearby.",
+      "start_shot": 594,
+      "end_shot": 599,
+      "start_frame_id": "shot_0594_img_0",
+      "end_frame_id": "shot_0599_img_2",
+      "num_shots": 6,
+      "num_frames": 18
+    },
+    {
+      "movie_id": "tt5827496",
+      "description": "An aerial view of buildings at night shows city lights. A young man inside a room, wearing a red hat, talks animatedly on a landline phone. A young woman outside makes a call from a payphone, displaying surprise or worry.",
+      "start_shot": 850,
+      "end_shot": 856,
+      "start_frame_id": "shot_0850_img_0",
+      "end_frame_id": "shot_0856_img_2",
+      "num_shots": 7,
+      "num_frames": 21
+    },
+    {
+      "movie_id": "tt3465916",
+      "description": "A group of teenagers stands in a gym. A black screen displays German text '8 JESUS BEGEGNET DEN WEINENDEN FRAUEN.' A young man and woman walk outside a school building. Another black screen shows '9 JESUS FÄLLT ZUM DRITTEN MAL UNTER DEM KREUZ.' People sing in a church, then a final black screen reads '10 JESUS WIRD SEINER KLEIDER BERAUBT.'",
+      "start_shot": 23,
+      "end_shot": 28,
+      "start_frame_id": "shot_0023_img_0",
+      "end_frame_id": "shot_0028_img_2",
+      "num_shots": 6,
+      "num_frames": 18
+    },
+    {
+      "movie_id": "tt0086856",
+      "description": "An old man works at a complex control panel filled with gauges. A man with wild hair (Otto) gives a thumbs-up to another man (Bud) wearing a helmet with wires. Otto then watches multiple television screens displaying abstract, colorful patterns.",
+      "start_shot": 1061,
+      "end_shot": 1066,
+      "start_frame_id": "shot_1061_img_0",
+      "end_frame_id": "shot_1066_img_2",
+      "num_shots": 6,
+      "num_frames": 18
+    },
+    {
+      "movie_id": "tt0341495",
+      "description": "Crowds of people are running through a city street, seemingly in panic or pursuit. Police officers are also running, some with weapons, trying to control the situation. A woman in a white top runs through the crowd, looking over her shoulder anxiously, and a man in a suit with sunglasses and a gun is also seen running.",
+      "start_shot": 779,
+      "end_shot": 787,
+      "start_frame_id": "shot_0779_img_0",
+      "end_frame_id": "shot_0787_img_2",
+      "num_shots": 9,
+      "num_frames": 27
+    },
+    {
+      "movie_id": "tt0212338",
+      "description": "A group of adults, including Robert De Niro and a blonde woman he embraces, stand on the porch of a house at night. Ben Stiller, standing near a van with \"Atlantic American Airlines\" written on its side, looks on and then gets into the driver's seat. He drives the van and interacts with the group again as he prepares to leave.",
+      "start_shot": 1493,
+      "end_shot": 1501,
+      "start_frame_id": "shot_1493_img_0",
+      "end_frame_id": "shot_1501_img_2",
+      "num_shots": 9,
+      "num_frames": 27
+    },
+    {
+      "movie_id": "tt0404978",
+      "description": "At a restaurant table, several Asian men are talking and looking at magazines with colorful images, while a Caucasian man and woman listen and smile. One Asian man is seen whispering to another across the table.",
+      "start_shot": 658,
+      "end_shot": 672,
+      "start_frame_id": "shot_0659_img_0",
+      "end_frame_id": "shot_0667_img_2",
+      "num_shots": 9,
+      "num_frames": 27
+    },
+    {
+      "movie_id": "tt0083866",
+      "description": "A young man talks on a red corded phone. A young girl (Drew Barrymore) watches an old television displaying animated commercials for 'Biscuits' and a baseball player. A creature's hand (E.T.'s) appears from behind the television, surprising the girl.",
+      "start_shot": 549,
+      "end_shot": 556,
+      "start_frame_id": "shot_0549_img_0",
+      "end_frame_id": "shot_0556_img_2",
+      "num_shots": 8,
+      "num_frames": 24
+    },
+    {
+      "movie_id": "tt0079417",
+      "description": "A woman with dark hair wakes up surprised in bed, then gets out of bed nude, seen from behind. A man with dark hair lies in bed, looking at her. The woman, now wearing glasses, walks away looking back. A young child with blonde hair then enters a doorway, looking confused, as the man sits up in bed.",
+      "start_shot": 408,
+      "end_shot": 416,
+      "start_frame_id": "shot_0409_img_0",
+      "end_frame_id": "shot_0416_img_2",
+      "num_shots": 8,
+      "num_frames": 24
+    },
+    {
+      "movie_id": "tt0460989",
+      "description": "Two men walk through an interior space, passing a wall clock. A winding path cuts through a lush green forest, followed by a shot of a young man and woman talking intimately within the same woods. A wide, hazy shot shows multiple figures in an open, foggy landscape. Finally, several men are gathered in a dark, rustic room, some seated and one reading by the light of a lantern.",
+      "start_shot": 300,
+      "end_shot": 308,
+      "start_frame_id": "shot_0300_img_0",
+      "end_frame_id": "shot_0308_img_2",
+      "num_shots": 9,
+      "num_frames": 27
+    },
+    {
+      "movie_id": "tt1068680",
+      "description": "A man wearing a blue helmet with cartoon eyes smiles at a woman in a dark jacket at night. He turns to look at something off-screen, then looks back at the woman. The woman stands next to a motorcycle.",
+      "start_shot": 372,
+      "end_shot": 379,
+      "start_frame_id": "shot_0372_img_0",
+      "end_frame_id": "shot_0379_img_2",
+      "num_shots": 8,
+      "num_frames": 24
+    },
+    {
+      "movie_id": "tt0479884",
+      "description": "The segment begins with a man in sunglasses observing a woman. He is then seen smoking a cigar, exhaling large amounts of smoke while a woman in a gold bikini top is partially visible beside him. A wide shot reveals a rooftop swimming pool area with several people, lounge chairs, and shaded pergolas. A man holding a rifle stands on an elevated balcony overlooking the pool. The scene shifts to an underwater view of the pool, followed by a shot looking up through the water towards the sunny surface. Finally, a man is seen swimming gracefully underwater.",
+      "start_shot": 393,
+      "end_shot": 401,
+      "start_frame_id": "shot_0393_img_0",
+      "end_frame_id": "shot_0401_img_2",
+      "num_shots": 9,
+      "num_frames": 27
+    },
+    {
+      "movie_id": "tt0118929",
+      "description": "A woman in a long, dark dress sings on a stage in a dimly lit club, accompanied by a band. Patrons at tables watch her performance.",
+      "start_shot": 1049,
+      "end_shot": 1056,
+      "start_frame_id": "shot_1049_img_0",
+      "end_frame_id": "shot_1056_img_2",
+      "num_shots": 8,
+      "num_frames": 24
+    },
+    {
+      "movie_id": "tt0212338",
+      "description": "Ben Stiller and Robert De Niro are both at separate payphones in what appears to be a bar. Ben Stiller talks into the receiver, making a call, while Robert De Niro also holds a phone to his ear, listening intently and occasionally looking at Ben Stiller with a suspicious expression.",
+      "start_shot": 1310,
+      "end_shot": 1316,
+      "start_frame_id": "shot_1310_img_0",
+      "end_frame_id": "shot_1316_img_2",
+      "num_shots": 7,
+      "num_frames": 21
+    },
+    {
+      "movie_id": "tt0118689",
+      "description": "Several well-dressed men are seated around a conference table in an ornate room. They laugh and raise their hands in agreement during the meeting.",
+      "start_shot": 75,
+      "end_shot": 84,
+      "start_frame_id": "shot_0075_img_0",
+      "end_frame_id": "shot_0083_img_2",
+      "num_shots": 9,
+      "num_frames": 27
+    },
+    {
+      "movie_id": "tt0369441",
+      "description": "The segment begins with a man in a trench coat interacting with people in a car. It then transitions to a grand bank lobby, featuring a 'Grand Cayman' sign behind a counter. A man in a suit and sunglasses walks with a woman in a light-colored suit and sunglasses through the bank's interior. They are seen observing the main lobby from an upper balcony. Later, the man from the first shot is seen speaking to another man at a counter.",
+      "start_shot": 1097,
+      "end_shot": 1106,
+      "start_frame_id": "shot_1098_img_0",
+      "end_frame_id": "shot_1105_img_2",
+      "num_shots": 8,
+      "num_frames": 24
+    },
+    {
+      "movie_id": "tt0181689",
+      "description": "A man stands by a large window, looking out at an apartment complex. He then looks down at a scattering of photographs on a table, picking up one of a young boy. A woman lies on a bed, looking distressed.",
+      "start_shot": 1148,
+      "end_shot": 1155,
+      "start_frame_id": "shot_1148_img_0",
+      "end_frame_id": "shot_1155_img_2",
+      "num_shots": 8,
+      "num_frames": 24
+    },
+    {
+      "movie_id": "tt0112818",
+      "description": "A woman in a courtroom observes a man strapped to a gurney. Two guards stand near a control panel with red lights. The clock shows midnight, and the guards activate a system while the man is shown with wide, distressed eyes.",
+      "start_shot": 943,
+      "end_shot": 951,
+      "start_frame_id": "shot_0943_img_0",
+      "end_frame_id": "shot_0951_img_2",
+      "num_shots": 9,
+      "num_frames": 27
+    },
+    {
+      "movie_id": "tt3808342",
+      "description": "Various dark scenes are presented, some with people talking or interacting in low light. A man's silhouette is shown with a bright light source behind him. Later, a group of people, some appearing partially nude, are gathered around a fire at night.",
+      "start_shot": 100,
+      "end_shot": 114,
+      "start_frame_id": "shot_0103_img_0",
+      "end_frame_id": "shot_0112_img_2",
+      "num_shots": 10,
+      "num_frames": 30
+    },
+    {
+      "movie_id": "tt1411238",
+      "description": "A woman holding a small white dog looks surprised at night. A man then walks through a modern, lit corridor and later stands in a hospital hallway. He is then seen in a hospital room beside a patient in a bed, with the small white dog now on the patient's chest.",
+      "start_shot": 849,
+      "end_shot": 891,
+      "start_frame_id": "shot_0882_img_0",
+      "end_frame_id": "shot_0891_img_2",
+      "num_shots": 10,
+      "num_frames": 30
+    },
+    {
+      "movie_id": "tt1439572",
+      "description": "A man and a woman are having an intense conversation in a brightly lit apartment. The woman appears distressed, while the man looks serious as they speak to each other.",
+      "start_shot": 566,
+      "end_shot": 575,
+      "start_frame_id": "shot_0566_img_0",
+      "end_frame_id": "shot_0575_img_2",
+      "num_shots": 10,
+      "num_frames": 30
+    },
+    {
+      "movie_id": "tt0393109",
+      "description": "The two young men are still present, with the one in the leather jacket looking up under an archway, and the other in a white tank top standing by a stream. There are different camera angles showing both men in the same location.",
+      "start_shot": 951,
+      "end_shot": 960,
+      "start_frame_id": "shot_0951_img_0",
+      "end_frame_id": "shot_0956_img_2",
+      "num_shots": 6,
+      "num_frames": 18
+    },
+    {
+      "movie_id": "tt0088944",
+      "description": "A young girl with curly hair stands next to a man with a mustache who has his arm around her. Another man in a beige shirt looks intently at the camera, with a marina full of boats in the background.",
+      "start_shot": 500,
+      "end_shot": 506,
+      "start_frame_id": "shot_0501_img_0",
+      "end_frame_id": "shot_0505_img_2",
+      "num_shots": 5,
+      "num_frames": 15
+    },
+    {
+      "movie_id": "tt3659786",
+      "description": "The word 'MARVELLOUS' appears on an orange background. People are seen gathering in a room, some with musical instruments like a ukulele and guitar. A young boy with a guitar case on his back greets an older man, then walks through the crowd, smiling and looking back.",
+      "start_shot": 2,
+      "end_shot": 10,
+      "start_frame_id": "shot_0002_img_0",
+      "end_frame_id": "shot_0009_img_2",
+      "num_shots": 8,
+      "num_frames": 24
+    },
+    {
+      "movie_id": "tt0479884",
+      "description": "The segment features several men in a dimly lit room, with one man holding a gun. A man with a shaved head and beard points a pistol at another man's head, while multiple other armed men surround them. Three men in dark clothing are seen in the interior of a car, with one holding a large firearm. The man with the shaved head is shown pressing his pistol firmly against the side of the other man's head. This intense standoff in the dimly lit room is repeated, emphasizing the hostage situation and threat.",
+      "start_shot": 161,
+      "end_shot": 169,
+      "start_frame_id": "shot_0163_img_0",
+      "end_frame_id": "shot_0169_img_2",
+      "num_shots": 7,
+      "num_frames": 21
+    },
+    {
+      "movie_id": "tt3465916",
+      "description": "Two women, one in a blue t-shirt and the other in a blue athletic jacket, are standing and talking in a gym. In the background, other children are actively running around. The conversation between the two women continues.",
+      "start_shot": 17,
+      "end_shot": 22,
+      "start_frame_id": "shot_0017_img_0",
+      "end_frame_id": "shot_0022_img_2",
+      "num_shots": 6,
+      "num_frames": 18
+    },
+    {
+      "movie_id": "tt0337921",
+      "description": "A young man in a red shirt gets out of a green truck and runs towards a building. A distressed woman is seen in a dark room, talking on a wired telephone. The young man walks through a school hallway and into a classroom, speaking on a mobile phone.",
+      "start_shot": 203,
+      "end_shot": 212,
+      "start_frame_id": "shot_0203_img_0",
+      "end_frame_id": "shot_0212_img_2",
+      "num_shots": 10,
+      "num_frames": 30
+    },
+    {
+      "movie_id": "tt0117731",
+      "description": "A man in a brown leather jacket observes a lively bar scene. A spaceship orbits Earth, and inside, crew members including Picard and Data, prepare with weapons. They move through corridors on the spaceship, ready for action.",
+      "start_shot": 329,
+      "end_shot": 336,
+      "start_frame_id": "shot_0330_img_0",
+      "end_frame_id": "shot_0336_img_2",
+      "num_shots": 7,
+      "num_frames": 21
+    },
+    {
+      "movie_id": "tt0092099",
+      "description": "Several shirtless men are playing beach volleyball on a sunny day, diving and spiking the ball. Spectators are seated nearby, and vintage cars are parked in the background. One man celebrates a point at the net.",
+      "start_shot": 775,
+      "end_shot": 785,
+      "start_frame_id": "shot_0776_img_0",
+      "end_frame_id": "shot_0785_img_2",
+      "num_shots": 10,
+      "num_frames": 30
+    },
+    {
+      "movie_id": "tt0092699",
+      "description": "A woman with short brown hair stands at what appears to be an airport, looking around and smiling. A man in a light jacket and backward cap, wearing a colorful scarf, walks towards her and speaks.",
+      "start_shot": 1121,
+      "end_shot": 1135,
+      "start_frame_id": "shot_1122_img_0",
+      "end_frame_id": "shot_1129_img_2",
+      "num_shots": 8,
+      "num_frames": 24
+    },
+    {
+      "movie_id": "tt0100234",
+      "description": "An older woman wearing a black headscarf speaks while looking around in what appears to be a bus. A bearded man sits nearby, listening and occasionally touching his face. The woman continues to speak, her expression serious.",
+      "start_shot": 132,
+      "end_shot": 140,
+      "start_frame_id": "shot_0132_img_0",
+      "end_frame_id": "shot_0139_img_2",
+      "num_shots": 8,
+      "num_frames": 24
+    },
+    {
+      "movie_id": "tt1092026",
+      "description": "A man emerges from a cloud of smoke, holding a long stick, and is then seen holding an alien. He is confronted by another man in sunglasses pointing a handgun at him, appearing angry and shouting.",
+      "start_shot": 1276,
+      "end_shot": 1285,
+      "start_frame_id": "shot_1276_img_0",
+      "end_frame_id": "shot_1282_img_2",
+      "num_shots": 7,
+      "num_frames": 21
+    },
+    {
+      "movie_id": "tt0103292",
+      "description": "Police vehicles and officers are seen in a lush, green area as people scatter. A man in a floral shirt holds a pistol, conversing with another man. A man with a bloody stomach wound leans against a chain-link fence. Inside a room, men stand around another man lying on a checkerboard floor.",
+      "start_shot": 958,
+      "end_shot": 966,
+      "start_frame_id": "shot_0962_img_0",
+      "end_frame_id": "shot_0966_img_2",
+      "num_shots": 5,
+      "num_frames": 15
+    },
+    {
+      "movie_id": "tt0086856",
+      "description": "A rocket-powered vehicle races across a desert landscape, leaving a smoke trail. Close-ups show the vehicle with flames and a man wearing a headset. Aerial shots follow the car's rapid movement, and a control panel with dials is briefly shown.",
+      "start_shot": 111,
+      "end_shot": 118,
+      "start_frame_id": "shot_0111_img_0",
+      "end_frame_id": "shot_0118_img_2",
+      "num_shots": 8,
+      "num_frames": 24
+    },
+    {
+      "movie_id": "tt2109184",
+      "description": "A young child dressed in a ninja costume is seen trick-or-treating with adults and another child. They approach a house decorated for Halloween, featuring a scarecrow holding a bowl of candy. The ninja child is holding a pumpkin-shaped candy bucket.",
+      "start_shot": 7,
+      "end_shot": 15,
+      "start_frame_id": "shot_0007_img_0",
+      "end_frame_id": "shot_0015_img_2",
+      "num_shots": 9,
+      "num_frames": 27
+    },
+    {
+      "movie_id": "tt3289956",
+      "description": "Two young individuals and an older man are standing in a room with metal compartments, possibly a morgue or laboratory. They exchange looks and the older man holds a mug. A close-up shows a label on one of the compartments with 'DANIELS, IRENE' and medical details, before the young man opens a compartment door.",
+      "start_shot": 164,
+      "end_shot": 171,
+      "start_frame_id": "shot_0164_img_0",
+      "end_frame_id": "shot_0171_img_2",
+      "num_shots": 8,
+      "num_frames": 24
+    },
+    {
+      "movie_id": "tt0071129",
+      "description": "A bellhop watches three men in traditional attire enter an elevator. A man in a white cap leans over a couch, talking and gesturing in a grand hall. Other scenes depict figures riding horses at night, a man on a motorcycle, and several ghost-like figures standing on a balcony, observing from a building.",
+      "start_shot": 478,
+      "end_shot": 489,
+      "start_frame_id": "shot_0478_img_0",
+      "end_frame_id": "shot_0485_img_2",
+      "num_shots": 8,
+      "num_frames": 24
+    },
+    {
+      "movie_id": "tt0167404",
+      "description": "A young boy in bed under a pink blanket appears distressed, looking at a man who is partially visible beside him. The boy's face shows fear and sadness.",
+      "start_shot": 360,
+      "end_shot": 366,
+      "start_frame_id": "shot_0360_img_0",
+      "end_frame_id": "shot_0366_img_2",
+      "num_shots": 7,
+      "num_frames": 21
+    },
+    {
+      "movie_id": "tt1228705",
+      "description": "Tony Stark, wearing part of his Iron Man suit, sits at a diner booth with Nick Fury and Black Widow. Nick Fury, wearing an eye patch, is actively talking and gesturing to Tony Stark. They appear to be in a serious discussion.",
+      "start_shot": 1157,
+      "end_shot": 1168,
+      "start_frame_id": "shot_1158_img_0",
+      "end_frame_id": "shot_1167_img_2",
+      "num_shots": 10,
+      "num_frames": 30
+    },
+    {
+      "movie_id": "tt3465916",
+      "description": "A young woman in a blue shirt stands with her arms crossed, talking to another woman in a blue athletic jacket in a gym. Other children are running and playing in the background. The two women continue their conversation.",
+      "start_shot": 16,
+      "end_shot": 26,
+      "start_frame_id": "shot_0019_img_0",
+      "end_frame_id": "shot_0024_img_2",
+      "num_shots": 6,
+      "num_frames": 18
+    },
+    {
+      "movie_id": "tt1411238",
+      "description": "At an outdoor market, a man in a light blue patterned shirt and a woman with her hair in a ponytail continue their conversation, both smiling and looking at each other. Other people are visible in the background, walking around or at market stalls.",
+      "start_shot": 70,
+      "end_shot": 78,
+      "start_frame_id": "shot_0070_img_0",
+      "end_frame_id": "shot_0075_img_2",
+      "num_shots": 6,
+      "num_frames": 18
+    },
+    {
+      "movie_id": "tt1411238",
+      "description": "A man in a light blue shirt smiles at a woman with dark hair tied in a ponytail, who is also smiling. They are at an outdoor market with other people around them, including another woman with blonde hair looking on.",
+      "start_shot": 82,
+      "end_shot": 90,
+      "start_frame_id": "shot_0082_img_0",
+      "end_frame_id": "shot_0090_img_2",
+      "num_shots": 9,
+      "num_frames": 27
+    },
+    {
+      "movie_id": "tt0117731",
+      "description": "A man in a white tuxedo and a woman in a gold dress examine a large, injured, biomechanical creature on a table. The man carefully extracts a device from the creature's chest, while the woman looks on with concern.",
+      "start_shot": 683,
+      "end_shot": 687,
+      "start_frame_id": "shot_0683_img_0",
+      "end_frame_id": "shot_0687_img_2",
+      "num_shots": 5,
+      "num_frames": 15
+    },
+    {
+      "movie_id": "tt0493464",
+      "description": "A man falls and slides down the aisle of a train. He struggles to get up and fights with other passengers as the train speeds along. Another man drives a car alongside the train on a winding road.",
+      "start_shot": 1656,
+      "end_shot": 1665,
+      "start_frame_id": "shot_1656_img_0",
+      "end_frame_id": "shot_1665_img_2",
+      "num_shots": 10,
+      "num_frames": 30
+    },
+    {
+      "movie_id": "tt1725986",
+      "description": "A man and a woman in sunglasses are driving a dark blue vintage Ford Mustang convertible in broad daylight. The woman is driving, and they appear to be in conversation.",
+      "start_shot": 643,
+      "end_shot": 649,
+      "start_frame_id": "shot_0643_img_0",
+      "end_frame_id": "shot_0648_img_2",
+      "num_shots": 6,
+      "num_frames": 18
+    },
+    {
+      "movie_id": "tt0970179",
+      "description": "A young boy watches as a man in elaborate, knight-like costume and feathered helmet walks past, smiling at him. Other performers in fantastical sea-creature costumes are seen preparing for a show or parade. The boy observes the colorful display with curiosity.",
+      "start_shot": 1212,
+      "end_shot": 1219,
+      "start_frame_id": "shot_1212_img_0",
+      "end_frame_id": "shot_1219_img_2",
+      "num_shots": 8,
+      "num_frames": 24
+    },
+    {
+      "movie_id": "tt1119646",
+      "description": "Four men are at a hotel reception desk, talking to a female receptionist. One bearded man examines a small black device. The men appear engaged in the conversation, some looking puzzled, against the background of a fancy hotel lobby.",
+      "start_shot": 245,
+      "end_shot": 258,
+      "start_frame_id": "shot_0248_img_0",
+      "end_frame_id": "shot_0255_img_2",
+      "num_shots": 8,
+      "num_frames": 24
+    },
+    {
+      "movie_id": "tt0078841",
+      "description": "A man in a suit smiles as a nurse stands behind an elderly man in a wheelchair; the man in the suit leans over the elderly man. Cars drive through a forest, and a man in a red vest walks down a hallway. Another man in a suit descends a staircase. A black limousine is seen on a road and a man exits it in front of a building. A woman talks on the phone with multiple television screens showing various images behind her.",
+      "start_shot": 318,
+      "end_shot": 330,
+      "start_frame_id": "shot_0321_img_0",
+      "end_frame_id": "shot_0330_img_2",
+      "num_shots": 10,
+      "num_frames": 30
+    },
+    {
+      "movie_id": "tt7180392",
+      "description": "By a serene lake, one man in a white jacket opens the trunk of a car. Inside, another man is concealed under a blanket. The man in the white jacket uses a metal detector over the hidden man, who appears to be unconscious or dead, while a third man watches with concern.",
+      "start_shot": 1373,
+      "end_shot": 1385,
+      "start_frame_id": "shot_1373_img_0",
+      "end_frame_id": "shot_1382_img_2",
+      "num_shots": 10,
+      "num_frames": 30
+    },
+    {
+      "movie_id": "tt0103855",
+      "description": "A man in a cardigan sweater sits with a group of people, including a woman and a young boy. They appear to be playing chess and talking in a cozy, dimly lit room.",
+      "start_shot": 1392,
+      "end_shot": 1403,
+      "start_frame_id": "shot_1393_img_0",
+      "end_frame_id": "shot_1402_img_2",
+      "num_shots": 10,
+      "num_frames": 30
+    },
+    {
+      "movie_id": "tt0373051",
+      "description": "A small cart is speeding down a dark mine track inside a tunnel. A woman and a man in the cart are struggling, and then they are violently thrown from the cart onto the tracks.",
+      "start_shot": 614,
+      "end_shot": 625,
+      "start_frame_id": "shot_0614_img_0",
+      "end_frame_id": "shot_0623_img_2",
+      "num_shots": 10,
+      "num_frames": 30
+    },
+    {
+      "movie_id": "tt0167404",
+      "description": "A man in a suit takes a cassette labeled 'Vincent Grey - Session Tape 7/1' from a box. He places it into a tape recorder, rewinds it, and adjusts the volume, appearing thoughtful.",
+      "start_shot": 464,
+      "end_shot": 478,
+      "start_frame_id": "shot_0464_img_0",
+      "end_frame_id": "shot_0473_img_2",
+      "num_shots": 10,
+      "num_frames": 30
+    },
+    {
+      "movie_id": "tt0206634",
+      "description": "A man in a car talks to an older man with long white hair. The man then drives and walks through a dense forest, eventually observing a hidden settlement with various vehicles and structures. He interacts with several individuals within this secluded area.",
+      "start_shot": 276,
+      "end_shot": 281,
+      "start_frame_id": "shot_0276_img_0",
+      "end_frame_id": "shot_0281_img_2",
+      "num_shots": 6,
+      "num_frames": 18
+    },
+    {
+      "movie_id": "tt0078841",
+      "description": "A man in a green shirt stands by a bed. A blurry shot of movement is followed by a close-up of a blonde woman crying. A man and woman hug passionately beside a red four-poster bed. The segment ends with abstract light patterns on a dark background.",
+      "start_shot": 608,
+      "end_shot": 614,
+      "start_frame_id": "shot_0610_img_0",
+      "end_frame_id": "shot_0614_img_2",
+      "num_shots": 5,
+      "num_frames": 15
+    },
+    {
+      "movie_id": "tt0052357",
+      "description": "A close-up shows historical dates carved into a giant redwood tree trunk, including '1215 MAGNA CARTA SIGNED'. A man in a suit and hat, and a woman in a light coat, are looking at the tree, with the woman touching it. The woman then walks away into the dense forest, with the man watching her leave.",
+      "start_shot": 542,
+      "end_shot": 559,
+      "start_frame_id": "shot_0543_img_0",
+      "end_frame_id": "shot_0551_img_2",
+      "num_shots": 9,
+      "num_frames": 27
+    },
+    {
+      "movie_id": "tt0467200",
+      "description": "A man in a rich red and gold outfit with a plumed hat rides a black horse past a stone building, turning to look behind him. A woman in a blue dress and light blue hood stands outside, observing the scene. Another woman, dressed in a brown gown with a golden headdress, walks alongside other costumed figures. The man on horseback is seen again, riding away from the camera. The setting is outdoors, featuring historical architecture and period attire.",
+      "start_shot": 198,
+      "end_shot": 205,
+      "start_frame_id": "shot_0198_img_0",
+      "end_frame_id": "shot_0205_img_2",
+      "num_shots": 8,
+      "num_frames": 24
+    },
+    {
+      "movie_id": "tt1092026",
+      "description": "A remote rural property features a burning car in the foreground. A woman appears distraught inside a vehicle, while a man in a suit walks, points a gun, and then quickly drives a black car away, kicking up dust.",
+      "start_shot": 1365,
+      "end_shot": 1373,
+      "start_frame_id": "shot_1365_img_0",
+      "end_frame_id": "shot_1371_img_2",
+      "num_shots": 7,
+      "num_frames": 21
+    },
+    {
+      "movie_id": "tt0369441",
+      "description": "This segment features close-up shots of three individuals' faces. A man with a beard displays a serious expression, then a subtle smile. A man with dark hair initially looks intense before widening his eyes and then breaking into a large grin. A blonde woman shows expressions of concern and then slight bewilderment. The segment focuses entirely on these changing facial expressions.",
+      "start_shot": 1287,
+      "end_shot": 1293,
+      "start_frame_id": "shot_1287_img_0",
+      "end_frame_id": "shot_1293_img_2",
+      "num_shots": 7,
+      "num_frames": 21
+    },
+    {
+      "movie_id": "tt1135952",
+      "description": "A woman with long, light brown hair is seen from behind. A man in a red beret and military uniform sits, looking serious. Another woman in a yellow shirt is serving food into a bowl in a kitchen. Hands are shown kneading a white, dough-like substance. A view through a metal fence shows lush greenery outside.",
+      "start_shot": 208,
+      "end_shot": 212,
+      "start_frame_id": "shot_0208_img_0",
+      "end_frame_id": "shot_0212_img_2",
+      "num_shots": 5,
+      "num_frames": 15
+    },
+    {
+      "movie_id": "tt0072443",
+      "description": "A woman with blonde hair looks to the side in a dark room illuminated by a lamp. A drop of liquid falls and ripples on a surface, and a child's reflection is seen in a mirror. Close-ups show a child's serious face, glowing embers, and a woman tending a fire in a fireplace, warming her hands. The segment ends with two women talking near a lamp.",
+      "start_shot": 110,
+      "end_shot": 119,
+      "start_frame_id": "shot_0110_img_0",
+      "end_frame_id": "shot_0119_img_2",
+      "num_shots": 10,
+      "num_frames": 30
+    },
+    {
+      "movie_id": "tt0475293",
+      "description": "A blonde girl and a boy look surprised while seated in a theater audience, observing an event off-screen. On a stage, a young man in a brown suit sings, accompanied by a girl playing the piano. An older woman at a table in the audience watches intently, first looking unimpressed while drinking from a thermos. Her expression then shifts to a warm smile as the boy performing looks up at her, appearing to be relieved.",
+      "start_shot": 569,
+      "end_shot": 578,
+      "start_frame_id": "shot_0569_img_0",
+      "end_frame_id": "shot_0577_img_2",
+      "num_shots": 9,
+      "num_frames": 27
+    },
+    {
+      "movie_id": "tt0253474",
+      "description": "People watch anxiously from a dark room as a chaotic scene unfolds on the street outside, where individuals are seen running and falling. Soldiers are present, and a military vehicle drives through the street at night.",
+      "start_shot": 320,
+      "end_shot": 331,
+      "start_frame_id": "shot_0323_img_0",
+      "end_frame_id": "shot_0330_img_2",
+      "num_shots": 8,
+      "num_frames": 24
+    },
+    {
+      "movie_id": "tt1099212",
+      "description": "A man and a woman are in a lush, mossy green forest. They share intimate moments, embracing and kissing near a tree. They sit and lie together in a field of green grass and small flowers, looking deeply into each other's eyes.",
+      "start_shot": 842,
+      "end_shot": 850,
+      "start_frame_id": "shot_0844_img_0",
+      "end_frame_id": "shot_0849_img_2",
+      "num_shots": 6,
+      "num_frames": 18
+    },
+    {
+      "movie_id": "tt0070245",
+      "description": "People are quickly getting into cars, one of them holding a shotgun. The scene shifts to a busy city street with cars and pedestrians, some running. A person in sunglasses and a hat is seen inside a car, holding a handgun.",
+      "start_shot": 498,
+      "end_shot": 507,
+      "start_frame_id": "shot_0498_img_0",
+      "end_frame_id": "shot_0507_img_2",
+      "num_shots": 10,
+      "num_frames": 30
+    },
+    {
+      "movie_id": "tt0069762",
+      "description": "A man is driving a car on a dusty dirt road in a rural landscape. He encounters cows on the road, swerves, and then pulls out a gun, aiming it out the window of the car.",
+      "start_shot": 640,
+      "end_shot": 646,
+      "start_frame_id": "shot_0640_img_0",
+      "end_frame_id": "shot_0644_img_2",
+      "num_shots": 5,
+      "num_frames": 15
+    },
+    {
+      "movie_id": "tt0341495",
+      "description": "Two women are engaged in a physical struggle within a metal cage, with one falling and then being lifted by the other. One woman appears to be wielding a large blade, and drops of blood are visible on the floor. One woman lies on the ground, seemingly injured and exhausted.",
+      "start_shot": 462,
+      "end_shot": 470,
+      "start_frame_id": "shot_0462_img_0",
+      "end_frame_id": "shot_0470_img_2",
+      "num_shots": 9,
+      "num_frames": 27
+    },
+    {
+      "movie_id": "tt0092699",
+      "description": "A man in a suit stands at a doorway, talking to another man and smiling. Later, the man in the suit is driving a car at night, talking to a woman in the passenger seat. The woman looks at him attentively.",
+      "start_shot": 648,
+      "end_shot": 657,
+      "start_frame_id": "shot_0649_img_0",
+      "end_frame_id": "shot_0657_img_2",
+      "num_shots": 9,
+      "num_frames": 27
+    },
+    {
+      "movie_id": "tt1439572",
+      "description": "A group of people, including a man and woman, watch a woman in a hat play the violin. She smiles as she performs for the crowd, some of whom hold a single red leaf.",
+      "start_shot": 270,
+      "end_shot": 275,
+      "start_frame_id": "shot_0270_img_0",
+      "end_frame_id": "shot_0275_img_2",
+      "num_shots": 6,
+      "num_frames": 18
+    },
+    {
+      "movie_id": "tt0097216",
+      "description": "A man in a patterned shirt gestures wildly in front of a damaged storefront. Another man in a white and green shirt with a medallion stands observing the scene. They both survey the destruction, then confront each other, appearing to argue.",
+      "start_shot": 815,
+      "end_shot": 822,
+      "start_frame_id": "shot_0815_img_0",
+      "end_frame_id": "shot_0821_img_2",
+      "num_shots": 7,
+      "num_frames": 21
+    },
+    {
+      "movie_id": "tt1068680",
+      "description": "A man in a brown jacket stands face-to-face with an older man holding a microphone, engaging in a heated discussion. The man in the jacket shouts into the microphone, his face close to the older man's. A bright light shines behind the older man.",
+      "start_shot": 277,
+      "end_shot": 286,
+      "start_frame_id": "shot_0277_img_0",
+      "end_frame_id": "shot_0284_img_2",
+      "num_shots": 8,
+      "num_frames": 24
+    },
+    {
+      "movie_id": "tt0118688",
+      "description": "Several people are seen falling from a great height in a city, followed by a woman and a man in a leather jacket descending. Later, the woman and man enter a room where a motorcycle is parked.",
+      "start_shot": 1226,
+      "end_shot": 1235,
+      "start_frame_id": "shot_1226_img_0",
+      "end_frame_id": "shot_1235_img_2",
+      "num_shots": 10,
+      "num_frames": 30
+    },
+    {
+      "movie_id": "tt0253474",
+      "description": "A group of men in dirty, old clothes and caps stand outdoors, some holding tools. A German officer in a black coat stands on a wooden platform above them, addressing the group.",
+      "start_shot": 601,
+      "end_shot": 606,
+      "start_frame_id": "shot_0601_img_0",
+      "end_frame_id": "shot_0605_img_2",
+      "num_shots": 5,
+      "num_frames": 15
+    },
+    {
+      "movie_id": "tt0245844",
+      "description": "A man with curly dark hair and a white shirt runs through a grassy field towards an old stone building. He then stumbles and falls, rolling in the tall grass. Another man in a dark coat is also seen in the background. The man gets up and continues to move through the grass, looking determined.",
+      "start_shot": 1300,
+      "end_shot": 1313,
+      "start_frame_id": "shot_1301_img_0",
+      "end_frame_id": "shot_1308_img_2",
+      "num_shots": 8,
+      "num_frames": 24
+    },
+    {
+      "movie_id": "tt7180392",
+      "description": "A man in a blue jacket crawls on the floor and quickly hides behind a wall in a room. Another person attacks him with a knife, leading to a struggle. The man screams in pain as he sustains a neck injury and falls to the floor.",
+      "start_shot": 1651,
+      "end_shot": 1666,
+      "start_frame_id": "shot_1651_img_0",
+      "end_frame_id": "shot_1659_img_2",
+      "num_shots": 9,
+      "num_frames": 27
+    },
+    {
+      "movie_id": "tt0167404",
+      "description": "A young boy lies in bed under a pink blanket, looking around with a worried expression. A man is partially visible next to him, speaking to him.",
+      "start_shot": 352,
+      "end_shot": 360,
+      "start_frame_id": "shot_0352_img_0",
+      "end_frame_id": "shot_0360_img_2",
+      "num_shots": 9,
+      "num_frames": 27
+    },
+    {
+      "movie_id": "tt3659786",
+      "description": "An older woman opens her front door to welcome a man wearing a priest's collar into her home. They sit at a table in the living room and engage in conversation. The priest listens attentively as the woman speaks, then he replies, and they continue their discussion.",
+      "start_shot": 292,
+      "end_shot": 302,
+      "start_frame_id": "shot_0292_img_0",
+      "end_frame_id": "shot_0299_img_2",
+      "num_shots": 8,
+      "num_frames": 24
+    },
+    {
+      "movie_id": "tt0089881",
+      "description": "Inside a smoky, dark wooden room, several bodies lie on the floor with arrows protruding from them, covered in blood. Fires are visible on the exterior of the building, and smoke continues to fill the interior.",
+      "start_shot": 387,
+      "end_shot": 394,
+      "start_frame_id": "shot_0388_img_0",
+      "end_frame_id": "shot_0394_img_2",
+      "num_shots": 7,
+      "num_frames": 21
+    },
+    {
+      "movie_id": "tt0338751",
+      "description": "A man in a tuxedo laughs at a lively party. Leonardo DiCaprio, in a suit, engages in conversation with a woman in an elaborate Egyptian-themed costume, complete with a headdress, in a grand setting.",
+      "start_shot": 113,
+      "end_shot": 119,
+      "start_frame_id": "shot_0113_img_0",
+      "end_frame_id": "shot_0119_img_2",
+      "num_shots": 7,
+      "num_frames": 21
+    },
+    {
+      "movie_id": "tt0373051",
+      "description": "A man reads from an old book titled 'A Journey to the Center of the Earth,' pointing to specific lines and handwritten notes. A boy in a beanie is also seen examining pages of the book, which contain handwritten text and what appears to be a list.",
+      "start_shot": 204,
+      "end_shot": 211,
+      "start_frame_id": "shot_0204_img_0",
+      "end_frame_id": "shot_0211_img_2",
+      "num_shots": 8,
+      "num_frames": 24
+    },
+    {
+      "movie_id": "tt0097428",
+      "description": "A person kneels within a large circle of candles on a patterned floor, looking up at a giant, disembodied head projected in the center of the room. The kneeling person then stands up, appearing to cast a spell, and the head reacts with a grimace.",
+      "start_shot": 824,
+      "end_shot": 828,
+      "start_frame_id": "shot_0824_img_0",
+      "end_frame_id": "shot_0828_img_2",
+      "num_shots": 5,
+      "num_frames": 15
+    },
+    {
+      "movie_id": "tt0119567",
+      "description": "A man speaks and another prepares camera equipment in a lush jungle environment. A woman with red hair takes photos with a camera, and a man in a black jacket observes something on the ground. The woman smiles and speaks to someone off-camera.",
+      "start_shot": 106,
+      "end_shot": 112,
+      "start_frame_id": "shot_0106_img_0",
+      "end_frame_id": "shot_0110_img_2",
+      "num_shots": 5,
+      "num_frames": 15
+    },
+    {
+      "movie_id": "tt0079417",
+      "description": "A young woman with long blonde hair, appearing distressed or tired, sits in a courtroom. An older man with a mustache, wearing a suit, speaks while standing and leaning on a table in the courtroom. The woman looks at the man, her expression reflecting sadness, while the man appears serious during his speech.",
+      "start_shot": 735,
+      "end_shot": 740,
+      "start_frame_id": "shot_0735_img_0",
+      "end_frame_id": "shot_0740_img_2",
+      "num_shots": 6,
+      "num_frames": 18
+    },
+    {
+      "movie_id": "tt1092026",
+      "description": "A woman and a man look frightened in a dark forest at night. A bright, golden light shines intensely through the trees, illuminating the area and causing the man to react with surprise.",
+      "start_shot": 1473,
+      "end_shot": 1478,
+      "start_frame_id": "shot_1474_img_0",
+      "end_frame_id": "shot_1478_img_2",
+      "num_shots": 5,
+      "num_frames": 15
+    },
+    {
+      "movie_id": "tt0393109",
+      "description": "A young man is sitting at a desk in a dark room, illuminated by a desk lamp. He stares intently at a red card that reads 'Halloween in January!' and features a stylized masked face.",
+      "start_shot": 102,
+      "end_shot": 110,
+      "start_frame_id": "shot_0102_img_0",
+      "end_frame_id": "shot_0109_img_2",
+      "num_shots": 8,
+      "num_frames": 24
+    },
+    {
+      "movie_id": "tt0059043",
+      "description": "The man in the grey cardigan is in the bathroom, leaning against the wall, while the woman is in the bathtub. The older man arrives in a car at night and walks towards the house. The man in the cardigan then forcibly holds the screaming woman's head down in the bathtub.",
+      "start_shot": 273,
+      "end_shot": 283,
+      "start_frame_id": "shot_0273_img_0",
+      "end_frame_id": "shot_0281_img_2",
+      "num_shots": 9,
+      "num_frames": 27
+    },
+    {
+      "movie_id": "tt0372824",
+      "description": "A bald man, now wearing a suit and sweater vest, walks through a dormitory filled with boys in pajamas. He approaches a boy with dark curly hair and speaks to him directly. The boy responds while other children in nightwear are visible in the background, some getting ready. The man seems to be inspecting or addressing the boy in a serious manner.",
+      "start_shot": 225,
+      "end_shot": 239,
+      "start_frame_id": "shot_0225_img_0",
+      "end_frame_id": "shot_0232_img_2",
+      "num_shots": 8,
+      "num_frames": 24
+    },
+    {
+      "movie_id": "tt0338751",
+      "description": "A man with a beard sits shirtless in a dark, messy room, illuminated by a bright light from above. He holds a phone receiver wrapped in tissue, looking disheveled and contemplative.",
+      "start_shot": 2193,
+      "end_shot": 2203,
+      "start_frame_id": "shot_2196_img_0",
+      "end_frame_id": "shot_2203_img_2",
+      "num_shots": 8,
+      "num_frames": 24
+    },
+    {
+      "movie_id": "tt0137494",
+      "description": "A woman is lying down, appearing to be unconscious or injured. An older man with a beard gently touches her face and looks at her with concern, speaking softly. She briefly opens her eyes and looks at him. He continues to speak to her, showing great worry.",
+      "start_shot": 976,
+      "end_shot": 984,
+      "start_frame_id": "shot_0976_img_0",
+      "end_frame_id": "shot_0984_img_2",
+      "num_shots": 9,
+      "num_frames": 27
+    },
+    {
+      "movie_id": "tt2099556",
+      "description": "The man, now in a black suit, stands in a bedroom, observing a woman with a sleep mask lying in bed. He leans over her, seemingly checking her, while another woman stands in the background. He then sits next to her, looking intently at her as she stirs.",
+      "start_shot": 170,
+      "end_shot": 177,
+      "start_frame_id": "shot_0171_img_0",
+      "end_frame_id": "shot_0177_img_2",
+      "num_shots": 7,
+      "num_frames": 21
+    },
+    {
+      "movie_id": "tt3289956",
+      "description": "A young man opens a refrigerator and looks inside. An older man is examining a body on a table, holding a small object that appears to be an organ. He uses a tool to work on the body. The young man is still seen looking into the refrigerator.",
+      "start_shot": 512,
+      "end_shot": 520,
+      "start_frame_id": "shot_0512_img_0",
+      "end_frame_id": "shot_0520_img_2",
+      "num_shots": 9,
+      "num_frames": 27
+    },
+    {
+      "movie_id": "tt1438176",
+      "description": "A young man in a plaid shirt faces an older man in a track jacket, who stands with arms crossed. They appear to be having a tense conversation in a dimly lit room.",
+      "start_shot": 1101,
+      "end_shot": 1109,
+      "start_frame_id": "shot_1104_img_0",
+      "end_frame_id": "shot_1109_img_2",
+      "num_shots": 6,
+      "num_frames": 18
+    },
+    {
+      "movie_id": "tt0117731",
+      "description": "A person in a futuristic white spacesuit inserts glowing data cards into a console, revealing a display with 'MANUAL INPUT' and 'ACCESS ENABLED'. The person, with a partially exposed Borg-like face, then manipulates a dial on the console, activating a 'MAGLOCK SERVO CONTROL.'",
+      "start_shot": 867,
+      "end_shot": 876,
+      "start_frame_id": "shot_0867_img_0",
+      "end_frame_id": "shot_0876_img_2",
+      "num_shots": 10,
+      "num_frames": 30
+    },
+    {
+      "movie_id": "tt1135952",
+      "description": "A woman and a man are in a dimly lit storage room filled with shelves of canned goods. The woman looks at the items, and the man speaks to her. The woman loads various supplies into a wheelbarrow. The scene briefly shows an outdoor area at night with people gathered, then a dark, empty room.",
+      "start_shot": 640,
+      "end_shot": 648,
+      "start_frame_id": "shot_0640_img_0",
+      "end_frame_id": "shot_0647_img_2",
+      "num_shots": 8,
+      "num_frames": 24
+    },
+    {
+      "movie_id": "tt0071129",
+      "description": "A group photo of various people, including children, is taken outdoors. In a classroom, a teacher in a suit demonstrates a pendulum to students, some of whom raise their hands. The teacher smiles broadly, and the students watch intently, some with arms crossed.",
+      "start_shot": 100,
+      "end_shot": 109,
+      "start_frame_id": "shot_0100_img_0",
+      "end_frame_id": "shot_0109_img_2",
+      "num_shots": 10,
+      "num_frames": 30
+    },
+    {
+      "movie_id": "tt0092699",
+      "description": "Two men in business suits stand and talk in a busy office environment, with other colleagues working in the background. They listen and respond to each other, occasionally looking around the room.",
+      "start_shot": 1033,
+      "end_shot": 1041,
+      "start_frame_id": "shot_1033_img_0",
+      "end_frame_id": "shot_1040_img_2",
+      "num_shots": 8,
+      "num_frames": 24
+    },
+    {
+      "movie_id": "tt0087469",
+      "description": "Indiana Jones examines an object, while Willie Scott looks distressed, then screams. Indiana sits by a campfire, and Willie, draped in a blanket, screams as a snake wraps around her neck. Indiana quickly pushes the snake away as it slithers on the ground.",
+      "start_shot": 498,
+      "end_shot": 508,
+      "start_frame_id": "shot_0498_img_0",
+      "end_frame_id": "shot_0507_img_2",
+      "num_shots": 10,
+      "num_frames": 30
+    },
+    {
+      "movie_id": "tt0103292",
+      "description": "A man in a floral shirt speaks to another man beside a vehicle, with police present in the background. A man in a military uniform shouts commands. Men in uniforms and other individuals run through a dense, green forest terrain.",
+      "start_shot": 836,
+      "end_shot": 842,
+      "start_frame_id": "shot_0836_img_0",
+      "end_frame_id": "shot_0842_img_2",
+      "num_shots": 7,
+      "num_frames": 21
+    },
+    {
+      "movie_id": "tt0100802",
+      "description": "A man in a green jacket and knit cap peeks out from curtains, then sees a naked person outside. He looks at a screen showing his own face. He then interacts with an elderly woman holding a suitcase on city stairs and later carries the suitcase himself through a busy street.",
+      "start_shot": 471,
+      "end_shot": 479,
+      "start_frame_id": "shot_0471_img_0",
+      "end_frame_id": "shot_0479_img_2",
+      "num_shots": 9,
+      "num_frames": 27
+    },
+    {
+      "movie_id": "tt0079944",
+      "description": "Three men are seated at a table in a dimly lit interior. A person enters a doorway, and close-ups show a man's face and a woman from behind. Another scene shows a man lying on a bed while another leans over him, and a woman sits holding a cigarette.",
+      "start_shot": 132,
+      "end_shot": 139,
+      "start_frame_id": "shot_0132_img_0",
+      "end_frame_id": "shot_0139_img_2",
+      "num_shots": 8,
+      "num_frames": 24
+    }
+  ]
+}
