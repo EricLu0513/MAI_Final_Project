@@ -36,6 +36,8 @@ unzip -oq Charades_v1_480_test/Charades_v1_480.zip -d Charades_v1_480_test/
 * How the dataset are made
   * Randomly Select 100 videos, 500 clips
   * Ask the Gemini-2.5-flash to generate description as description
+* MovieNet_Gemini_100.json
+  * Select 100 out of the 500 clips for shortening testing time 
 
 
 ## Execution
