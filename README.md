@@ -56,6 +56,14 @@ gdown https://drive.google.com/drive/folders/11tsL9BjM3xcyaYDN2Af-n6yJfmvWuggv -
 python eval/qwen2_vl_7b_mr.py # The result will be saved in "results/qwen2_vl_7b_mr_charades.json" which is dynamically created
 ```
 
+```
+# Test NumPro Original Version on Charades_STA_mini
+python qwen2_charades_original.py --data_path charades_STA_mini.json --video_root PATH/TO/VIDEO/DIR
+
+# Test NumPro Total Frame Version on Charades_STA_mini
+python qwen2_charades_total_frame.py --data_path charades_STA_mini.json --video_root PATH/TO/VIDEO/DIR
+```
+
 ### Moment Retrieval in MovieNet_Gemini_100
 ```bash
 # Qwen2 Naive
