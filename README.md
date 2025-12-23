@@ -4,6 +4,7 @@
 ### Moment Retrieval
 1. [Charades_STA evaluation set](https://ai2-public-datasets.s3-us-west-2.amazonaws.com/charades/Charades_v1_480.zip)
 2. [ActivityNet evaluation set (Not available)]()
+3. [MovieNet_Gemini_100] 
 
 ### Download Step (Recommended)
 ```bash
@@ -53,6 +54,18 @@ apt-get install -y fonts-dejavu # Install the fonts
 gdown https://drive.google.com/drive/folders/11tsL9BjM3xcyaYDN2Af-n6yJfmvWuggv -O eval_gts --folder
 
 python eval/qwen2_vl_7b_mr.py # The result will be saved in "results/qwen2_vl_7b_mr_charades.json" which is dynamically created
+```
+
+### Moment Retrieval in MovieNet_Gemini_100
+```bash
+# Qwen2 Naive
+python qwen2_MovieNet.py --video_dir PATH/TO/VIDEO/DIR --json_path PATH/TO/MOVIENET_GEMINI_100_DATASET_JSON
+
+# CLIP Coarse Only
+python clip_MovieNet_coarse_only.py --video_dir PATH/TO/VIDEO/DIR --json_path PATH/TO/MOVIENET_GEMINI_100_DATASET_JSON
+
+# CLIP+Qwen2 Coarse to fine
+python qwen2_MovieNet_coarse_to_fine.py --video_dir PATH/TO/VIDEO/DIR --json_path PATH/TO/MOVIENET_GEMINI_100_DATASET_JSON
 ```
 
 
