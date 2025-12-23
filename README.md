@@ -62,6 +62,9 @@ python qwen2_charades_original.py --data_path charades_STA_mini.json --video_roo
 
 # Test NumPro Total Frame Version on Charades_STA_mini
 python qwen2_charades_total_frame.py --data_path charades_STA_mini.json --video_root PATH/TO/VIDEO/DIR
+
+# Test Embedding Version on Charades_STA_mini
+python qwen2_charades_embedding.py --data_path charades_STA_mini.json --video_root PATH/TO/VIDEO/DIR
 ```
 
 ### Moment Retrieval in MovieNet_Gemini_100
